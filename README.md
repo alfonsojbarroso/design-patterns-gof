@@ -49,7 +49,6 @@ Se ocupan de la comunicación, la asignación de responsabilidades y los algorit
 
 ---
 
-||
-|:---:|
 |Dr. Alfonso José Barroso Barajas|
+|:---:|
 |*Technology Architect*|
